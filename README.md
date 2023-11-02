@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KevinBeqari
+- 👀 I’m interested in software development and programming
+- 🌱 I’m currently learning python data science
+- 📫 How to reach me : kevinbeqari01@gmail.com
